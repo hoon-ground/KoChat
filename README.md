@@ -1,5 +1,13 @@
 # 2024-2 안드로이드(Kotlin) 멘토링
 
+### 0. Environment
+언어: Kotlin
+백엔드: Google Firebase
+  -인증: 로그인 및 회원가입 기능 구현
+
+
+
+
 ### 1. 로그인 / 회원가입
 <img src="https://github.com/user-attachments/assets/fb2d755a-6b70-4d62-91b7-e4f7be73c0bc" width="200"/>
 
